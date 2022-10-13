@@ -1,8 +1,6 @@
-var user1 = prompt("Enter  A number : ")
-var user2 = prompt ("Enter B Number : ")
-if (user1 > user2){
-    document.write("A number is greater than B")
-}
-else{
-    document.write("A number is less than B")
+for (var i = 1; i <=8;i++){
+document.writeln("\n");
+    for (var j = 1; j <=i;j++){
+        document.write(j);
+    }
 }
