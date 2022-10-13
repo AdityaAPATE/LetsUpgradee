@@ -1,0 +1,11 @@
+h1{
+    background-color: crimson;
+    padding: 20;
+    border: 10px solid chartreuse;
+    border-radius: 10px;
+}
+header{
+    background-color:orange;
+    padding: 5;
+    bottom: 10;
+}
